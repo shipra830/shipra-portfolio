@@ -127,6 +127,34 @@ export default function Home() {
       Live Demo
     </a>
   </div>
+  <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition mt-6">
+
+  <Image
+    src="/spotify.png"
+    alt="Spotify Clone"
+    width={800}
+    height={400}
+    className="rounded-lg mb-4"
+  />
+
+  <h3 className="text-2xl font-semibold">
+    Spotify Clone
+  </h3>
+
+  <p className="mt-3 text-gray-700">
+    Interactive Spotify-inspired music player built using HTML, CSS and JavaScript.
+    Features include play/pause, next/previous song, progress bar and playlist system.
+  </p>
+
+  <a
+    href="https://spotify-clone-bq5sy5f7p-shipra830s-projects.vercel.app"
+    target="_blank"
+    className="inline-block mt-4 bg-black text-white px-5 py-2 rounded-lg"
+  >
+    Live Demo
+  </a>
+
+</div>
 </section>
 
       <section id="education" className="max-w-4xl mx-auto py-10">
