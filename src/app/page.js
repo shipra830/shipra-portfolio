@@ -57,12 +57,6 @@ I build production-ready projects with authentication, APIs and deployment. Curr
     Resume
   </a>
 
-  <a
-    href="shiprapareek.dev@gmail.com"
-    className="bg-red-500 text-white px-5 py-2 rounded-lg"
-  >
-    Email
-  </a>
 </div>
 <p className="mt-4 text-green-700 font-medium">
 ✔ Open to Remote Internship Opportunities
@@ -153,7 +147,7 @@ Interactive music player inspired by Spotify with play/pause controls, playlist 
 
   <div className="flex gap-4 mt-4">
   <a
-    href="https://spotify-clone-bq5sy5f7p-shipra830s-projects.vercel.app"
+    href="https://spotify-clone-3bhc5usjx-shipra830s-projects.vercel.app"
     target="_blank"
     className="bg-black text-white px-5 py-2 rounded-lg"
   >
@@ -227,10 +221,11 @@ Interactive music player inspired by Spotify with play/pause controls, playlist 
     LinkedIn
   </a>
   <a
-  href="shiprapareek.dev@gmail.com"
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=shiprapareek.dev@email.com"
+  target="_blank"
   className="bg-red-500 text-white px-5 py-2 rounded-lg"
 >
-  Email 
+  Email Me
 </a>
 </div>
       </section>
