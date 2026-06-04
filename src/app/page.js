@@ -227,7 +227,7 @@ Interactive music player inspired by Spotify with play/pause controls, playlist 
     LinkedIn
   </a>
   <a
-  href="mailto:your-email@gmail.com"
+  href="shiprapareek.dev@gmail.com"
   className="bg-red-500 text-white px-5 py-2 rounded-lg"
 >
   Email 
