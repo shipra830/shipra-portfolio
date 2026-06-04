@@ -16,9 +16,13 @@ export default function Home() {
           Shipra Pareek
         </h1>
 
-        <p className="text-xl mt-4 text-gray-600">
-         Aspiring Full Stack Web Developer
-        </p>
+       <p className="text-xl mt-4 text-gray-600">
+Full Stack Developer focused on building scalable web applications using React, Node.js and MongoDB
+</p>
+
+<p className="mt-4 text-gray-600">
+I build production-ready projects with authentication, APIs and deployment. Currently seeking Remote Internship Opportunities.
+</p>
 
         <p className="mt-6 max-w-2xl mx-auto text-gray-700">
           M.Sc. Physics graduate passionate about building
@@ -28,8 +32,7 @@ export default function Home() {
           <p className="mt-4 text-gray-600">
   Currently seeking Web Development Internship Opportunities.
 </p>
-        
-        <div className="flex justify-center gap-4 mt-6">
+        <div className="flex justify-center gap-6 mt-6 flex-wrap">
   <a
     href="https://github.com/shipra830"
     target="_blank"
@@ -45,14 +48,28 @@ export default function Home() {
   >
     LinkedIn
   </a>
+
+  <a
+    href="/resume.pdf"
+    target="_blank"
+    className="bg-green-600 text-white px-5 py-2 rounded-lg"
+  >
+    Resume
+  </a>
+
+  <a
+    href="mailto:your-email@gmail.com"
+    className="bg-red-500 text-white px-5 py-2 rounded-lg"
+  >
+    Email
+  </a>
 </div>
-<a
-  href="/resume.pdf"
-  target="_blank"
-  className="inline-block mt-4 bg-green-600 text-white px-5 py-2 rounded-lg"
->
-  Resume
-</a>
+<p className="mt-4 text-green-700 font-medium">
+✔ Open to Remote Internship Opportunities
+</p>
+<p className="mt-6 text-sm text-gray-500">
+Based in India | Open to Remote Internships | Full Stack Developer
+</p>
       </section>
    <section id="skills" className="max-w-4xl mx-auto py-4">
         <h2 className="text-3xl font-bold mb-4">
@@ -60,47 +77,29 @@ export default function Home() {
         </h2>
 
         <div className="flex flex-wrap gap-3">
-        <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            HTML
-          </span>
-         <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            CSS
-          </span>
-         <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            JavaScript
-          </span>
-         <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            React.js
-          </span>
-         <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            Node.js
-          </span>
-          <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            MongoDB
-          </span>
-          <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-            GitHub
-          </span>
-         <span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-  Next.js
-</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">React.js</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">Next.js</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">JavaScript</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">Tailwind CSS</span>
 
-<span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-  Express.js
-</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">Node.js</span>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">Express.js</span>
 
-<span className="bg-white px-4 py-2 rounded-full shadow-md hover:scale-105 transition">
-  Tailwind CSS
-</span>
-        </div>
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">MongoDB</span>
+
+  <span className="bg-white px-4 py-2 rounded-full shadow-md">Git & GitHub</span>
+</div>
       </section>
+<section id="projects" className="max-w-5xl mx-auto py-10">
+  <div className="grid md:grid-cols-2 gap-6"></div>
+  <h2 className="text-3xl font-bold mb-2">
+  Projects
+</h2>
 
-     <section id="projects" className="max-w-4xl mx-auto py-10">
-  <h2 className="text-3xl font-bold mb-4">
-    Projects
-  </h2>
-
-  <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition">
+<p className="text-gray-600 mb-6">
+  Selected work showcasing full stack development skills
+</p>
+ <div className="bg-white p-6 rounded-xl shadow hover:shadow-2xl transition duration-300">
     <Image
       src="/airbnb.png"
       alt="Airbnb Clone"
@@ -113,21 +112,28 @@ export default function Home() {
       Airbnb Clone
     </h3>
 
-    <p className="mt-3 text-gray-700">
-      Full stack Airbnb inspired web application
-      with authentication, listings and wishlist
-      functionality.
-    </p>
+   <p className="mt-3 text-gray-700">
+Full-stack Airbnb clone with authentication, property listings, wishlist system and responsive UI. Built with focus on real-world booking flow simulation.
+</p>
+   <div className="flex gap-4 mt-4">
+  <a
+    href="https://majour-project-by-shipra.onrender.com/"
+    target="_blank"
+    className="bg-black text-white px-5 py-2 rounded-lg"
+  >
+    Live Demo
+  </a>
 
-    <a
-      href="https://majour-project-by-shipra.onrender.com/"
-      target="_blank"
-      className="inline-block mt-4 bg-black text-white px-5 py-2 rounded-lg"
-    >
-      Live Demo
-    </a>
+  <a
+    href="https://github.com/shipra830/Majour-Project-By-Shipra.git"
+    target="_blank"
+    className="bg-black text-white px-5 py-2 rounded-lg"
+  >
+    GitHub
+  </a>
+</div>
   </div>
-  <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition mt-6">
+  <div className="bg-white p-6 rounded-xl shadow hover:shadow-2xl transition duration-300">
 
   <Image
     src="/spotify.png"
@@ -142,20 +148,30 @@ export default function Home() {
   </h3>
 
   <p className="mt-3 text-gray-700">
-    Interactive Spotify-inspired music player built using HTML, CSS and JavaScript.
-    Features include play/pause, next/previous song, progress bar and playlist system.
-  </p>
+Interactive music player inspired by Spotify with play/pause controls, playlist system, progress bar and dynamic song switching.
+</p>
 
+  <div className="flex gap-4 mt-4">
   <a
     href="https://spotify-clone-bq5sy5f7p-shipra830s-projects.vercel.app"
     target="_blank"
-    className="inline-block mt-4 bg-black text-white px-5 py-2 rounded-lg"
+    className="bg-black text-white px-5 py-2 rounded-lg"
   >
     Live Demo
   </a>
 
+  <a
+    href="https://github.com/shipra830/spotify-clone.git"
+    target="_blank"
+   className="bg-black text-white px-5 py-2 rounded-lg"
+  >
+    GitHub
+  </a>
+</div>
+
 </div>
 </section>
+ 
 
       <section id="education" className="max-w-4xl mx-auto py-10">
   <h2 className="text-3xl font-bold mb-4">
@@ -172,6 +188,21 @@ export default function Home() {
       developed through advanced studies in Physics.
     </p>
   </div>
+  <section className="max-w-4xl mx-auto py-10">
+  <h2 className="text-3xl font-bold mb-4">
+    Remote Readiness
+  </h2>
+
+  <div className="bg-white p-6 rounded-xl shadow">
+    <ul className="list-disc ml-5 text-gray-700 space-y-2">
+      <li>Built and deployed full-stack applications independently</li>
+      <li>Comfortable working with Git & GitHub version control</li>
+      <li>Experience with REST APIs and backend integration</li>
+      <li>Strong self-learning and problem-solving ability</li>
+      <li>Able to work independently in remote environments</li>
+    </ul>
+  </div>
+</section>
 </section>
 
      <section id="contact" className="max-w-4xl mx-auto py-10">
@@ -195,6 +226,12 @@ export default function Home() {
   >
     LinkedIn
   </a>
+  <a
+  href="mailto:your-email@gmail.com"
+  className="bg-red-500 text-white px-5 py-2 rounded-lg"
+>
+  Email 
+</a>
 </div>
       </section>
     </main>
