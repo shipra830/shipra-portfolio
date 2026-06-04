@@ -58,7 +58,7 @@ I build production-ready projects with authentication, APIs and deployment. Curr
   </a>
 
   <a
-    href="mailto:your-email@gmail.com"
+    href="shiprapareek.dev@gmail.com"
     className="bg-red-500 text-white px-5 py-2 rounded-lg"
   >
     Email
