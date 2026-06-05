@@ -98,12 +98,11 @@ Developed strong analytical, logical reasoning, and problem-solving skills throu
 
 ### Home Page
 
-![Home Page](./screenshots/portfolio.home.png)
+![Home Page](./screenshots/homepage.png)
 
 ### Projects Section
 
 ![Projects Section](./screenshots/projects.png)
-
 ---
 
 ## 📬 Contact
