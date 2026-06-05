@@ -147,7 +147,7 @@ Interactive music player inspired by Spotify with play/pause controls, playlist 
 
   <div className="flex gap-4 mt-4">
   <a
-    href="https://spotify-clone-3bhc5usjx-shipra830s-projects.vercel.app"
+    href="spotify-clone-green-phi.vercel.app"
     target="_blank"
     className="bg-black text-white px-5 py-2 rounded-lg"
   >
