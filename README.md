@@ -1,36 +1,123 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Shipra Pareek - Portfolio Website
 
-## Getting Started
+A responsive personal portfolio website showcasing my projects, technical skills, education, and development journey.
 
-First, run the development server:
+## 🌐 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 https://shipra-portfolio.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📌 About
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I am a Full Stack Developer focused on building scalable web applications using React.js, Node.js, Express.js, and MongoDB.
 
-## Learn More
+I build production-ready projects with authentication, REST APIs, database integration, and deployment. Currently seeking Remote Web Development Internship opportunities.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Responsive design for desktop, tablet, and mobile devices
+- Professional developer portfolio
+- Skills showcase section
+- Project showcase with live demos
+- Education section
+- Contact section
+- Resume download option
+- GitHub and LinkedIn integration
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Technologies Used
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend Knowledge
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🏠 Airbnb Clone
+
+Full-stack Airbnb clone with authentication, property listings, wishlist system, booking workflow, and responsive UI.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, EJS
+
+🔗 Live Demo: https://majour-project-by-shipra.onrender.com
+
+---
+
+### 🎵 Spotify Clone
+
+Interactive Spotify-inspired music player featuring play/pause controls, playlist navigation, progress bar, and dynamic song switching.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://spotify-clone-green-phi.vercel.app
+
+---
+
+## 🎓 Education
+
+### Master of Science (Physics)
+
+Developed strong analytical, logical reasoning, and problem-solving skills through advanced studies in Physics.
+
+---
+
+## 💼 Remote Readiness
+
+- Built and deployed full-stack applications independently
+- Comfortable using Git & GitHub for version control
+- Experience working with REST APIs
+- Strong self-learning and debugging abilities
+- Able to work independently in remote environments
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](./screenshots/home.png)
+
+### Projects Section
+
+![Projects Section](./screenshots/projects.png)
+
+---
+
+## 📬 Contact
+
+**Shipra Pareek**
+
+📧 Email: shiprapareek.dev@gmail.com
+
+💻 GitHub: https://github.com/shipra830
+
+🔗 LinkedIn: https://linkedin.com/in/shipra-pareek-a45950213
+
+🌐 Portfolio: https://shipra-portfolio.vercel.app
+
+---
+
+⭐ If you like this project, feel free to star the repository.
